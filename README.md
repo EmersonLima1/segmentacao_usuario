@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-Este projeto consiste em um sistema de segmentação e perfil de usuário desenvolvido para uma plataforma online. O conjunto de dados compreende 1.000 perfis de usuários, cada um com 16 recursos distintos, incluindo dados demográficos, comportamento online, envolvimento com o conteúdo, interação com anúncios e interesses do usuário.
+Este projeto consiste em um sistema de segmentação e perfil de usuário. O conjunto de dados compreende 1.000 perfis de usuários, cada um com 16 recursos distintos, incluindo dados demográficos, comportamento online, envolvimento com o conteúdo, interação com anúncios e interesses do usuário.
 
 ### Objetivo
 
